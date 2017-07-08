@@ -1,3 +1,3 @@
-# gplusplus-assert
+# gplusplus-igloo
 
-![Build Status](https://travis-ci.org/cyber-dojo-languages/gplusplus-assert.svg?branch=master)
+![Build Status](https://travis-ci.org/cyber-dojo-languages/gplusplus-igloo.svg?branch=master)
