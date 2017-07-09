@@ -1,5 +1,6 @@
 #include "hiker.hpp"
 #include <igloo/igloo.h>
+
 using namespace igloo;
 
 Context(Hiker)
