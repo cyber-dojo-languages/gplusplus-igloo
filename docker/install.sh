@@ -1,4 +1,7 @@
 #!/bin/bash
+set -e
+
+apt-get install --yes git
 
 cd /usr/src
 git clone https://github.com/joakimkarlsson/igloo.git
@@ -12,3 +15,5 @@ cp -rfv /usr/src/igloo/igloo/ /usr/include
 
 cd ..
 rm -rf igloo
+
+apt-get remove --yes git
