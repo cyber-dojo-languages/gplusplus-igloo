@@ -1,4 +1,4 @@
-FROM  cyberdojofoundation/gplusplus:7.1
+FROM  cyberdojofoundation/gplusplus:7.2
 LABEL maintainer=byran@adgico.co.uk
 
 ADD install.sh /
